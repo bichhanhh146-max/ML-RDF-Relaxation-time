@@ -6,8 +6,8 @@ The project investigates the prediction of the structural relaxation time ($\log
 
 ## Repository Contents
 
-- **ML_model.ipynb** – Training and evaluation of conventional machine learning models.
-- **deepsets_with_latent_export.ipynb** – DeepSets training, evaluation, and latent representation export.
+- **ML_model_final.ipynb** – Training and evaluation of conventional machine learning models.
+- **deepset_model_final.ipynb** – DeepSets training, evaluation, and latent representation export.
 - **ml_features.csv** – Structural descriptors used for conventional machine learning.
 - **nn_metadata_with_cache.csv** – Metadata for DeepSets training.
 - **final_deepsets_cfg_plus_temperature.pt** – Pretrained DeepSets model.
